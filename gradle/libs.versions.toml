@@ -38,7 +38,8 @@ compose-ui = { module = "androidx.compose.ui:ui" }
 compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling" }
 compose-ui-test = { module = "androidx.compose.ui:ui-test-junit4" }
 compose-ui-test-manifest = { module = "androidx.compose.ui:ui-test-manifest" }
-compose-material3 = { module = "androidx.compose.material3:material3" }
+# Expressive APIs compatible with SDK 36 / AGP 8.13; beta02 requires SDK 37 / AGP 9.1.
+compose-material3 = { module = "androidx.compose.material3:material3", version = "1.5.0-alpha18" }
 compose-foundation = { module = "androidx.compose.foundation:foundation" }
 
 [plugins]
