@@ -1,0 +1,16 @@
+# Generated Android outputs and local machine/signing configuration.
+**/build/
+/.gradle/
+/.gradle-user/
+/.kotlin/
+/.tools/
+/.idea/
+*.iml
+/local.properties
+/keystore.properties
+*.part
+*.p12
+*.jks
+
+# Common OS metadata.
+.DS_Store

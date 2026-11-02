@@ -1,0 +1,26 @@
+{
+  "device": {"result":0,"info":{"uuid":"fixture-a13","softver":"DVR-A13-20250808","hwver":"H30D-LMT-V1.1","ssid":"fixture-network"}},
+  "product": {"result":0,"info":{"model":"recorder","company":"HUAXIN","soc":"eeasytech","sp":"HUAXIN"}},
+  "capability": {"result":0,"info":{"value":"301001100"}},
+  "settings": {"result":0,"info":[
+    {"name":"switchcam","items":["front","back"],"index":[0,1]},
+    {"name":"mic","items":["off","on"],"index":[0,1]},
+    {"name":"osd","items":["off","on"],"index":[0,1]},
+    {"name":"rec_resolution","items":["2.5K","4K"],"index":[0,1]},
+    {"name":"rec_split_duration","items":["1MIN","2MIN","3MIN"],"index":[0,1,2]},
+    {"name":"key_tone","items":["off","on"],"index":[0,1]},
+    {"name":"gsr_sensitivity","items":["off","low","middle","high"],"index":[0,1,2,3]},
+    {"name":"rec","items":["off","on"],"index":[0,1]},
+    {"name":"light_fre","items":["50HZ","60HZ"],"index":[0,1]},
+    {"name":"screen_standby","items":["off","1MIN","3MIN"],"index":[0,1,2]}
+  ]},
+  "values": {"result":0,"info":[
+    {"name":"switchcam","value":0},{"name":"mic","value":1},{"name":"osd","value":1},
+    {"name":"rec_resolution","value":2},{"name":"rec_split_duration","value":0},{"name":"key_tone","value":1},
+    {"name":"gsr_sensitivity","value":1},{"name":"rec","value":1},{"name":"light_fre","value":0},{"name":"screen_standby","value":1}
+  ]},
+  "sd": {"result":0,"info":{"total":59696,"free":2434}},
+  "battery": {"result":0,"info":{"capacity":67,"charge":0}},
+  "lock": {"result":0,"info":{"status":0}},
+  "duration": {"result":0,"info":{"duration":0}}
+}

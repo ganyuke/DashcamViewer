@@ -1,0 +1,15 @@
+DashcamViewer is an open-source Android app for the WANLIPO A13 dual-channel dash camera.
+
+Browse recordings on the camera, play supported files, download videos and photos to your phone, view live video, and inspect camera status and settings.
+
+Features:
+• Connect to the A13 camera's Wi-Fi or use a Wi-Fi network you selected.
+• Browse loop, event, emergency, parking, and race recordings.
+• Play and download listed recordings; downloaded files remain available after disconnecting.
+• View the camera's live H.264 stream when supported.
+• Read camera status and advertised settings. Writes use explicit confirmation and readback where supported.
+• Optionally remember the camera Wi-Fi password using encrypted local storage.
+
+This app supports the investigated WANLIPO A13 profile only. Some camera features are not exposed through its interface; parking control may need the camera's physical menu. Rear-feed and live-view behavior depend on the camera hardware and have not been validated on all devices.
+
+The app does not use accounts, analytics, cloud storage, or firmware updates. Camera access is local over Wi-Fi. Camera timestamps and reported file sizes may be inaccurate.
